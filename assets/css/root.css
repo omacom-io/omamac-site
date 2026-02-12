@@ -1,9 +1,9 @@
 :root {
 
-  --rgb-black: 0, 0, 0;
-  --rgb-black-light: 26, 27, 38;
-  --rgb-green: 117, 194, 115;
-  --rgb-white: 216, 217, 218;
+  --rgb-black: 18, 8, 48;
+  --rgb-black-light: 32, 18, 68;
+  --rgb-green: 100, 130, 235;
+  --rgb-white: 215, 210, 228;
 
   --color-black: rgb(var(--rgb-black));
   --color-black-light: rgb(var(--rgb-black-light));
