@@ -1,6 +1,6 @@
-# Omaterm Site
+# Omamac Site
 
-The website for [Omaterm](https://www.omaterm.org) — An Omakase Headless Arch Setup by DHH.
+The website for [Omamac](https://www.omamac.org) — Mac Imitation of Omarchy by DHH.
 
 ## Development
 
