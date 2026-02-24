@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     command.append(button);
 
-    button.setAttribute('aria-label', 'Copy the Omaterm install command');
+    button.setAttribute('aria-label', 'Copy the Omamac install command');
 
     button.addEventListener('click', (e) => {
 
