@@ -1,5 +1,5 @@
 .command {
-  background: var(--color-black-light);
+  background: var(--color-background-light);
   border-radius: 0.4em;
   display: block;
   max-width: 100%;
@@ -44,7 +44,7 @@
   background: linear-gradient(
     90deg,
     transparent,
-    var(--color-black-light)
+    var(--color-background-light)
   );
   left: calc(100% - 1.2em);
 }
@@ -53,7 +53,7 @@
   background: linear-gradient(
     -90deg,
     transparent,
-    var(--color-black-light)
+    var(--color-background-light)
   );
   right: calc(100% - 1.2em);
 }
@@ -113,7 +113,7 @@
     background: linear-gradient(
       90deg,
       transparent,
-      var(--color-black-light) 33%
+      var(--color-background-light) 33%
     );
     left: calc(100% - 3em);
     width: 3em;

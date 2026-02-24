@@ -6,14 +6,14 @@
 }
 
 .pre a {
-  color: var(--color-green);
+  color: var(--color-blue);
   font-weight: normal;
   justify-self: center;
   text-decoration: none;
 }
 
 .pre pre {
-  color: var(--color-green);
+  color: var(--color-blue);
   font-size: clamp(0.425rem, 1.25vw, 1rem);
   justify-self: center;
   letter-spacing: -0.0425em;

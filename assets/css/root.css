@@ -1,13 +1,13 @@
 :root {
 
-  --rgb-black: 18, 8, 48;
-  --rgb-black-light: 32, 18, 68;
-  --rgb-green: 100, 130, 235;
+  --rgb-background: 18, 8, 48;
+  --rgb-background-light: 32, 18, 68;
+  --rgb-blue: 100, 130, 235;
   --rgb-white: 215, 210, 228;
 
-  --color-black: rgb(var(--rgb-black));
-  --color-black-light: rgb(var(--rgb-black-light));
-  --color-green: rgb(var(--rgb-green));
+  --color-background: rgb(var(--rgb-background));
+  --color-background-light: rgb(var(--rgb-background-light));
+  --color-blue: rgb(var(--rgb-blue));
   --color-white: rgb(var(--rgb-white));
 
   --font-family: 'Cascadia Code', Menlo, Monaco, Consolas, 'Courier New',  monospace;

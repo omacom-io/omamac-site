@@ -11,7 +11,7 @@
     0 0.8em 0.8em -1.2em rgba(var(--rgb-black), 0.5),
     0 1.2em 1.2em -1.6em rgba(var(--rgb-black), 0.6)
   ;
-  color: var(--color-black);
+  color: var(--color-background);
   cursor: pointer;
   display: flex;
   font-weight: 700;
@@ -38,8 +38,8 @@
 @media(hover: hover) {
 
   .button:hover {
-    background: var(--color-green);
-    color: var(--color-black);
+    background: var(--color-blue);
+    color: var(--color-background);
   }
 
 }
